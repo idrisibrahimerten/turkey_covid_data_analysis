@@ -1,1 +1,1 @@
-# covid_verileri_analizi-TURKEY-
+# Covid 19 Verileri İle Veri Analizi [TURKEY]
